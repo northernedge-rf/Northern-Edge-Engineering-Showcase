@@ -1,0 +1,23 @@
+JOTVAR | Selected cloud-GPU execution results
+Platform: cloud GPU | Reported GPU: NVIDIA GeForce RTX 5090
+Source: October 2026 retained 10-run test report
+Disclosure: filtered result fields; not a full original JSON trace.
+
+Test kind: paired CPU/OpenCL source-engine simulation step execution.
+
+trial=01 completed_steps=600 requested_steps=600 finite_cpu=true finite_opencl=true
+trial=02 completed_steps=600 requested_steps=600 finite_cpu=true finite_opencl=true
+trial=03 completed_steps=600 requested_steps=600 finite_cpu=true finite_opencl=true
+trial=04 completed_steps=600 requested_steps=600 finite_cpu=true finite_opencl=true
+trial=05 completed_steps=600 requested_steps=600 finite_cpu=true finite_opencl=true
+trial=06 completed_steps=600 requested_steps=600 finite_cpu=true finite_opencl=true
+trial=07 completed_steps=600 requested_steps=600 finite_cpu=true finite_opencl=true
+trial=08 completed_steps=600 requested_steps=600 finite_cpu=true finite_opencl=true
+trial=09 completed_steps=600 requested_steps=600 finite_cpu=true finite_opencl=true
+trial=10 completed_steps=600 requested_steps=600 finite_cpu=true finite_opencl=true
+
+Total completed steps: 6000.
+
+Scope: engine execution completion, not a physical validation of robot motion or
+a claim of comprehensive physics fidelity. Simulation geometry, model states,
+source code, numerical kernels and internal configuration are omitted.
