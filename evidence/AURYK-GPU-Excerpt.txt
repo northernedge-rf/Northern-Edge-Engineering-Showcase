@@ -1,0 +1,26 @@
+AURYK Studio | Selected Windows/Vulkan log excerpt
+Platform: Windows | Reported GPU: NVIDIA GTX 1660 Ti
+Source: October 2026 retained engineering test records
+Disclosure: selected and redacted result lines; not a full original transcript.
+
+[Device check]
+status=PASS
+loader=true
+instance=true
+physical_devices=1
+graphics_queue=true
+
+[Graphics checks]
+AURYK QUALIFICATION A PASS
+AURYK QUALIFICATION B PASS
+AURYK QUALIFICATION C GPU SKINNING PASS
+
+[Window presentation check]
+run=1 orderly_shutdown=PASS exit_code=0 successful_presents=12
+run=2 orderly_shutdown=PASS exit_code=0 successful_presents=12
+run=3 orderly_shutdown=PASS exit_code=0 successful_presents=12
+result=PASS
+
+Scope: selected successful checks only. This record is not evidence that all testing,
+application installation lifecycle or end-to-end creative workflows are qualified.
+No source, build path, scene, code, pixels or engineering input data is distributed.
