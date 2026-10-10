@@ -1,0 +1,24 @@
+NE Robot Runtime | Selected native Windows test results
+Platform: Windows x64
+Source: October 2026 retained native runtime test record
+Disclosure: filtered result fields; not a full original transcript.
+
+[Recorded functional checks]
+environment=Windows-x64
+checks=58447 failures=0
+exit_code=0
+
+[Additional recorded test run]
+checks=59124 failures=0
+exit_code=0
+
+[Selected endurance runs]
+trial=1 completed_deliveries=200000 recorded_ledger_discrepancies=0
+trial=2 completed_deliveries=200000 recorded_ledger_discrepancies=0
+trial=3 completed_deliveries=200000 recorded_ledger_discrepancies=0
+trial=4 completed_deliveries=200000 recorded_ledger_discrepancies=0
+trial=5 completed_deliveries=200000 recorded_ledger_discrepancies=0
+
+Scope: recorded execution on a specified platform, not independent comparison
+with other robotics runtimes, full platform qualification or safety certification.
+No test implementation, source code, protocol definition or internal traces included.
