@@ -1,9 +1,11 @@
 # KODIAK KDK-X
 
-**Independent wheel-legged robotics platform.**
+**Wheel-legged humanoid robotics platform — engineering and research program.**
 
-KODIAK is Northern Edge's robotics platform research and engineering program. Work has included mechanical design, robotics controls experimentation and simulation research.
+KODIAK KDK-X is Northern Edge's platform-level robotics development effort. The work includes mechanical research, simulation, control experimentation and systems-engineering planning.
 
-KODIAK is distinct from JOTVAR, our separate simulation-software project.
+KODIAK is **not** the ownership boundary for Northern Edge's broader robotics software portfolio. Programs such as runtime coordination, real-time control, state estimation, perception, motion and simulation are developed as **standalone technologies**. Where appropriate, future KODIAK implementations may use them through optional integrations.
 
-[Return to showcase](../README.md)
+This page does **not** claim a completed physical humanoid, production deployment, integrated end-to-end qualification or safety certification. KODIAK's unpublished detailed design, interfaces, calculations and manufacturing information are deliberately excluded.
+
+[Robotics software overview](Robotics-Software-Ecosystem.md) · [Return to showcase](../README.md)

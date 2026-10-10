@@ -1,9 +1,11 @@
 # NE Robot Runtime
 
-**Standalone robotics software runtime.**
+**Standalone robotics communications and execution-runtime software program.**
 
-Northern Edge is developing a robotics communications and execution-runtime platform as a separate software product.
+Northern Edge develops NE Robot Runtime independently of any mandatory KODIAK hardware platform or other Northern Edge application. Potential integration with a robot, controller or simulator is a separate engineering activity, not a prerequisite of the program.
 
-Selected native Windows execution and test results are available in the public evidence section.
+The public record contains [selected native Windows execution results](../evidence/NE-Robot-Runtime-Excerpt.txt). Those extracts do not establish broad operating-system coverage, competing-platform superiority, safety certification or complete robot-system qualification.
 
-[View selected test results](../evidence/NE-Robot-Runtime-Excerpt.txt) · [Return to showcase](../README.md)
+Implementation protocols, message formats, scheduling methods and detailed system architecture remain private.
+
+[Robotics software overview](Robotics-Software-Ecosystem.md) · [Return to showcase](../README.md)
